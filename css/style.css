@@ -1,10 +1,10 @@
 /* Developer Name: Sheldon Skaggs
-  Date: 11/27/2023
+  Date: 12/17/2023
   File Name: style.css
 */
 
 /* CSS Reset */
-body, header, nav, main, footer, img, h1, h3, ul, aside, figure, figcaption {
+body, header, nav, main, footer, img, h1, h3, ul, aside, figure, figcaption, video {
   margin: 0;
   padding: 0;
   border: 0;
